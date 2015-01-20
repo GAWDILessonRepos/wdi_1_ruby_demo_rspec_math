@@ -8,7 +8,6 @@ By the end of this, students should be able to:
 
 - Describe, in plain language, what RSpec expectations do
 - Write an expectation for the existence of a method
-- 
 
 ## Instructions
 
