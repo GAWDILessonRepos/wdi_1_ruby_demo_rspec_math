@@ -6,10 +6,17 @@
 
 By the end of this, students should be able to:
 
-- Describe, in plain language, what RSpec expectations do
-- Write an expectation for the existence of a method
+- Describe, in plain language, what RSpec expectations do.
+- Write an expectation for the existence of a method.
 
 ## Instructions
+
+- Fork and clone this repo, change working directory.
+- Run `bundle install`
+- Run `rspec spec`. All the tests should pass.
+- Open `spec/math_spec.rb`, then sit tight.
+- Follow along with your instructor. Stage and commit your changes as you progress.
+- Push changes to your Github repo `git push origin master`.
 
 Fork and clone this repo. Run `bundle` then run `rspec`. Open `spec/math_spec.rb`, then sit tight.
 
